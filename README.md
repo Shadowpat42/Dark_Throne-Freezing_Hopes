@@ -1,0 +1,1 @@
+Here we can see the files for a visual novel called Freezing Hopes
