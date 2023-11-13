@@ -9,6 +9,13 @@ image room = "bg/room_in_day.jpg"
 image school = "bg/school.jpg"
 # image black = "bg/black.jpg"
 image episode_1 = "bg/episode_1.jpg"
+image kitchen = "bg/kitchen.jpg"
+image food = "bg/food.jpg"
+image koridor = "bg/korifor.jpg"
+image street = "bg/street.jpg"
+image phone = "bg/phone.jpg"
+image streetDog = "bg/street_with_dog.jpg"
+image episode_end = "bg/episode_end.jpg"
 
 # intro
 image black = "intro/black.png"
@@ -30,6 +37,13 @@ image loader11 = "intro/loader (11).png"
 # складывать все ваши файлы изображений в папку images.
 # Например, сцену bg room можно вызвать файлом "bg room.png",
 # а eileen happy — "eileen happy.webp", и тогда они появятся в игре.
+
+# Переменные:
+$ score_ecaterina = 0
+$ score_blondinka = 0
+$ score_friend = 0
+$ bad_condition = 0
+$ good_condition = 0
 
 # Спрайты Rin
 image Rin = "Rin/Rin_Casual_OpenSmile_Blush.png"
