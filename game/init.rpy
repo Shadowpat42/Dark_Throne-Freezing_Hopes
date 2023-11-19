@@ -16,6 +16,8 @@ image street = "bg/street.jpg"
 image phone = "bg/phone.jpg"
 image streetDog = "bg/street_with_dog.jpg"
 image episode_end = "bg/episode_end.jpg"
+image street_with_tree = "bg/street_with_tree.jpg"
+image fall_dog = "bg/fall_dog.jpg"
 
 # intro
 image black = "intro/black.png"
@@ -45,11 +47,9 @@ $ score_friend = 0
 $ bad_condition = 0
 $ good_condition = 0
 
-# Спрайты Rin
+# Спрайты главной героини со светлыми волосами (Имя?)
 image Rin = "Rin/Rin_Casual_OpenSmile_Blush.png"
-image RinSmile = "Rin/Rin_Casual_Frown_EyesClosed.png"
-image RinDefault = "Rin/Rin_Casual_Smile.png"
-image RinBlush = "Rin/Rin_Casual_Smile_Blush.png"
+image person_1 = "characters/person_1/pers_1.png"
 
 label splashscreen:
     scene black
