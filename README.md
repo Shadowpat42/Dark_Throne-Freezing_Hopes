@@ -19,6 +19,9 @@
 1. [Ссылка на фоны](https://drive.google.com/drive/folders/1CtRA-vmvC_26S_ftxAHtiLVUEMek6ZKB?usp=sharing)
 2. [Ссылка на спрайты персонажей](https://drive.google.com/drive/folders/1STOjQX60TQzmAXhtWc8NiGy56ySnThVq?usp=sharing)
 
+**Артефакты геймдизайнера:**
+- [Ссылка на pdf](https://vk.com/doc622680558_667227447?hash=y0OpG8gM3tbzNyzmTfAOwZbSDPzeXAhA84XL4Ks07w8&dl=xCBcGC8jRUaRH6swWxZl6ZJvNlfMLSlcn0nZx4fURjw)
+
 ### Описание проекта:
 
 В самом разгаре последнего года школьной жизни, 11-классник Егор сталкивается с самым существенным испытанием – ЕГЭ. В живописном городе средней величины он оказывается в самом центре учебного водоворота, меткого научного турбулентного потока, который несет его в неизведанные глубины знаний и жизненного опыта.
