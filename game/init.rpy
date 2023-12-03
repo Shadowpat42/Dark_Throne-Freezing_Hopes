@@ -1,8 +1,10 @@
 ﻿# Вы можете расположить сценарий своей игры в этом файле.
 define config.end_splash_transition = Dissolve(1.0)
 # Определение персонажей игры.
-define m = Character("{b}Мама{/b}", color="313447")
-define e = Character("{b}Егор{/b}", color="1B9753")
+define m = Character("Мама", color="313447")
+define e = Character("Егор", color="1B9753")
+define i = Character("Ирина", color="8378C8")
+define a = Character("Александра Владимировна", color="ff0000")
 
 # Backgrounds
 image room = "bg/room_in_day.jpg"
@@ -18,6 +20,11 @@ image streetDog = "bg/street_with_dog.jpg"
 image episode_end = "bg/episode_end.jpg"
 image street_with_tree = "bg/street_with_tree.jpg"
 image fall_dog = "bg/fall_dog.jpg"
+image vorota = "bg/vorota.jpg"
+image tolpa = "bg/tolpa.jpg"
+image tolpa_no = "bg/tolpa_no.jpg"
+image dvor = "bg/school_dvor.jpg"
+image classroom = "bg/classroom.jpg"
 
 # intro
 image black = "intro/black.png"
@@ -48,8 +55,12 @@ $ bad_condition = 0
 $ good_condition = 0
 
 # Спрайты главной героини со светлыми волосами (Имя?)
-image Rin = "Rin/Rin_Casual_OpenSmile_Blush.png"
 image person_1 = "characters/person_1/pers_1.png"
+
+# Спрайты подруги дества
+image friend_default = "characters/person_2/friend.png"
+image friend_smile = "characters/person_2/friend_smile.png"
+image friend_blush = "characters/person_2/friend_blush.png"
 
 label splashscreen:
     scene black
