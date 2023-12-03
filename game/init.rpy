@@ -5,6 +5,7 @@ define m = Character("Мама", color="313447")
 define e = Character("Егор", color="1B9753")
 define i = Character("Ирина", color="8378C8")
 define a = Character("Александра Владимировна", color="ff0000")
+define d = Character("Даша")
 
 # Backgrounds
 image room = "bg/room_in_day.jpg"
