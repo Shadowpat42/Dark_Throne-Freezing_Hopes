@@ -7,7 +7,8 @@
 
 | Участник                          | Роль                  | 
 | --------------------------------- | --------------------- | 
-| Джобиров Владимир Джамшедович     | Разработчик, дизайнер |     
+| Джобиров Владимир Джамшедович     | Разработчик, дизайнер | 
+| Ворожцов Антон Александрович      | Разработчик           |
 | Шадрин Андрей Алексеевич          | Тимлид, аналитик      |
 | Мамаев Степан Алексеевич          | Геймдизайнер          |
 
@@ -20,7 +21,7 @@
 2. [Ссылка на спрайты персонажей](https://drive.google.com/drive/folders/1STOjQX60TQzmAXhtWc8NiGy56ySnThVq?usp=sharing)
 
 **Артефакты геймдизайнера:**
-- [Ссылка на pdf](https://vk.com/doc622680558_667227447?hash=y0OpG8gM3tbzNyzmTfAOwZbSDPzeXAhA84XL4Ks07w8&dl=xCBcGC8jRUaRH6swWxZl6ZJvNlfMLSlcn0nZx4fURjw)
+- [Ссылка на pdf](https://vk.com/doc622680558_667562732?hash=Hu91RtWdzkClDYp2SHY9dKyvvDQV52z9NFDjNZgQgys&dl=CJeYoaF0k2zdb7qnVCJ0yigNYfqjE9daK6Wb0qbOOss)
 
 ### Описание проекта:
 
