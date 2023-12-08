@@ -10,8 +10,9 @@ define d = Character("Даша")
 # Backgrounds
 image room = "bg/room_in_day.jpg"
 image school = "bg/school.jpg"
-# image black = "bg/black.jpg"
+image hall = "bg/hall.jpg"
 image episode_1 = "bg/episode_1.jpg"
+image episode_2 = "bg/episode_2.jpg"
 image kitchen = "bg/kitchen.jpg"
 image food = "bg/food.jpg"
 image koridor = "bg/korifor.jpg"
@@ -26,6 +27,15 @@ image tolpa = "bg/tolpa.jpg"
 image tolpa_no = "bg/tolpa_no.jpg"
 image dvor = "bg/school_dvor.jpg"
 image classroom = "bg/classroom.jpg"
+image shoping = "bg/shoping.jpg"
+
+# Questions:
+image questions = "bg/questions.jpg"
+image question_1 = "bg/question_1.jpg"
+image question_2 = "bg/question_2.jpg"
+image question_3 = "bg/question_3.jpg"
+image question_4 = "bg/question_4.jpg"
+image question_5 = "bg/question_5.jpg"
 
 # intro
 image black = "intro/black.png"
@@ -55,10 +65,10 @@ $ score_friend = 0
 $ bad_condition = 0
 $ good_condition = 0
 
-# Спрайты главной героини со светлыми волосами (Имя?)
+# Спрайты главной героини со светлыми волосами (Даша)
 image person_1 = "characters/person_1/pers_1.png"
 
-# Спрайты подруги дества
+# Спрайты подруги дества (Ирина)
 image friend_default = "characters/person_2/friend.png"
 image friend_smile = "characters/person_2/friend_smile.png"
 image friend_blush = "characters/person_2/friend_blush.png"
