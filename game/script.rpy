@@ -161,6 +161,7 @@ label start:
                 "{color=#000000}Девушка ушла{/color}"
                 e "{color=#000000}Ну ладно, пора-бы идти в класс..,{/color}"
                 scene black with fade
+                play music "music/piano.ogg" fadein(2.0)
 
                 "{color=#000000}Поднимаясь по лестнице к новому классу, я размышлял о том, какие люди меня ждут.{/color}"
                 "{color=#000000}Новые лица, новые имена — все это создавало ощущение волнения и неопределенности.{/color}"
@@ -265,6 +266,7 @@ label start:
                 hide person_1 with dissolve
                 "{color=#000000}Девушка ушла{/color}"
                 e "{color=#000000}Ну ладно, пора-бы идти в класс..,{/color}"
+                play music "music/piano.ogg" fadein(2.0)
                 scene black with fade
 
                 "{color=#000000}Поднимаясь по лестнице к новому классу, я размышлял о том, какие люди меня ждут.{/color}"
@@ -319,7 +321,7 @@ label start:
                 "{color=#000000}Я прошел мимо лежащей собаки и направился в школу{/color}"
                 # "{color=#000000}{/color}"
                 scene vorota with fade
-                play music "music/music_for_school.mp3" fadein(5.0)
+                play music "music/piano.ogg" fadein(2.0)
                 "{color=#000000}За углом улицы я уже видел контуры здания, в котором скрыт первый день моей новой жизни{/color}"
                 "{color=#000000}Проходя через школьные ворота я увидел улыбающееся лицо охранника, который часто закрывал ворота чуть позже{/color}"
                 menu:
@@ -396,6 +398,7 @@ label start:
 
     stop music
     scene episode_2 with fade
+    play music "music/46_Romantic piano melody.ogg"
     pause
     scene classroom with fade
     "{color=#000000}Я уже примерно представлял, что нас ждет в этом учебном году, поэтому не обращал внимания на рассказ учителя.{/color}"
@@ -452,10 +455,9 @@ label start:
     e "{color=#000000}Ничего. - быстро ответил я{/color}"
     "{color=#000000}Я сел за парту и стал ждать пока остальные закончат{/color}"
     scene black with fade
-    pause 2.0
-    scene classroom with fade
-    pause
     "{color=#000000}*Спустя 5 минут{/color}"
+    scene classroom with fade
+
     a "{color=#000000}Так, все сдали? Тогда наш классный час закончен. Можете идти.{/color}"
     "{color=#000000}Загадочная девушка из сна начала собирать рюкзак{/color}"
     "{color=#000000}Что же делать?{/color}"
@@ -468,6 +470,7 @@ label start:
     scene hall with fade
     e "{color=#000000}Если списки распределения не ошибочны, то ее класс должен быть где-то здесь.{/color}"
     scene hall with vpunch
+    play sound "music/hitZv.mp3" volume 0.2
     "{color=#000000}Кто-то хлопнул меня по плечу{/color}"
     "{color=#000000}Я было хотел развернуться, но атакующий быстро показал свой лик{/color}"
     if bad_condition == 0:
@@ -541,7 +544,7 @@ label start:
     hide friend_smile
     scene ShopStreet with dissolve
     show friend_smile with dissolve
-
+    play music "music/Lucky.ogg" fadein(2.0)
     i "{color=#000000}Фух... Не ожидала, что это займет столько времени{/color}"
     "{color=#000000}Действительно, на улице уже было темно{/color}"
     "{color=#000000}Я посмотрел на загруженные пакеты{/color}"
@@ -587,6 +590,7 @@ label start:
     "{color=#000000}Мы зашли в дом.{/color}"
     i "{color=#000000}У нас тут расширенный выбор блюд - все, что угодно, главное чтобы с мясом!{/color}"
     "{color=#000000}Я снял обувь и пошел за Ириной на кухню{/color}"
+    play music "music/23_Christmas.ogg" fadein(2.0)
     scene kitchen_Irina_1 with dissolve
     i "{color=#000000}Ну что, давай приступим к ужину!{/color}"
     e "{color=#000000}Замечательно, я даже не знаю, чего ожидать, но уверен, что будет вкусно{/color}"
@@ -624,6 +628,7 @@ label start:
     e "{color=#000000}Но спасибо за приглашение. Давай как-нибудь повторим!{/color}"
     scene prohojaya with dissolve
     "{color=#000000}Мы проводились до двери, и, обнявшись, обещали устроить еще одну встречу. {/color}"
+    stop music
     scene house with dissolve
     "{color=#000000}Я вышел на улицу, наполненный теплом уютного вечера.{/color}"
     e "{color=#000000}Что-ж... Пора бы идти домой.{/color}"
