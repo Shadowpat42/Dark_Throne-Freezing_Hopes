@@ -7,27 +7,58 @@ define i = Character("Ирина", color="8378C8")
 define a = Character("Александра Владимировна", color="ff0000")
 define d = Character("Даша")
 
-# Backgrounds
-image room = "bg/room_in_day.jpg"
-image school = "bg/school.jpg"
-image hall = "bg/hall.jpg"
-image episode_1 = "bg/episode_1.jpg"
-image episode_2 = "bg/episode_2.jpg"
+# Backgrounds:
+
+# Фоны дома ГГ:
+image room_in_day = "bg/room_in_day.jpg"
+image room_in_night = "bg/room_in_night.jpg"
 image kitchen = "bg/kitchen.jpg"
+image kitchen_dark = "bg/kitchen_dark.jpg"
 image food = "bg/food.jpg"
 image koridor = "bg/korifor.jpg"
+image koridor_dark = "bg/koridor_dark.jpg"
+image cake = "bg/cake.jpg"
+image piece_of_cake = "bg/piece_of_cake.jpg"
+
+# Фоны с улицей возле дома:
 image street = "bg/street.jpg"
-image phone = "bg/phone.jpg"
 image streetDog = "bg/street_with_dog.jpg"
-image episode_end = "bg/episode_end.jpg"
-image street_with_tree = "bg/street_with_tree.jpg"
 image fall_dog = "bg/fall_dog.jpg"
+
+# Фон телефона со временем
+image phone = "bg/phone.jpg"
+
+# Фоны школы (наружние и внутренние):
+image hall = "bg/hall.jpg"
+image street_with_tree = "bg/street_with_tree.jpg"
+image road_to_school = "bg/road_to_school.jpg"
 image vorota = "bg/vorota.jpg"
-image tolpa = "bg/tolpa.jpg"
-image tolpa_no = "bg/tolpa_no.jpg"
 image dvor = "bg/school_dvor.jpg"
 image classroom = "bg/classroom.jpg"
-image shoping = "bg/shoping.jpg"
+
+# Фоны дома Ирины
+image house = "bg/house.jpg"
+image prohojaya = "bg/prohojaya.jpg"
+image kitchen_Irina = "bg/kitchen_Irina.jpg"
+image food_Irina = "bg/food_Irina.jpg"
+image kitchen_Irina_1 = "bg/kitchen_Irina_1.jpg"
+image kitchen_Irina_2 = "bg/kitchen_Irina_2.jpg"
+image kitchen_Irina_3 = "bg/kitchen_Irina_3.jpg"
+image kitchen_Irina_4 = "bg/kitchen_Irina_4.jpg"
+
+
+# Фоны магазина (наружние и внутренние)
+image shoping_1 = "bg/shoping_1.jpg"
+image shoping_2 = "bg/shoping_2.jpg"
+image shoping_3 = "bg/shoping_3.jpg"
+image kassa = "bg/kassa.jpg"
+image ShopStreet = "bg/ShopStreet.jpg"
+image road2 = "bg/road2.jpg"
+
+# Фоны эпизодов:
+image episode_1 = "bg/episode_1.jpg"
+image episode_2 = "bg/episode_2.jpg"
+image episode_end = "bg/episode_end.jpg"
 
 # Questions:
 image questions = "bg/questions.jpg"
@@ -53,12 +84,9 @@ image loader8 = "intro/loader (8).png"
 image loader9 = "intro/loader (9).png"
 image loader10 = "intro/loader (10).png"
 image loader11 = "intro/loader (11).png"
-# Вместо использования оператора image можете просто
-# складывать все ваши файлы изображений в папку images.
-# Например, сцену bg room можно вызвать файлом "bg room.png",
-# а eileen happy — "eileen happy.webp", и тогда они появятся в игре.
 
-# Переменные:
+
+# Переменные (пока не используются)
 $ score_ecaterina = 0
 $ score_blondinka = 0
 $ score_friend = 0
@@ -73,6 +101,10 @@ image friend_default = "characters/person_2/friend.png"
 image friend_smile = "characters/person_2/friend_smile.png"
 image friend_blush = "characters/person_2/friend_blush.png"
 
+# Спрайты главного героя:
+image egor = "characters/main_hero/egor.png"
+
+# Заставка перед входом
 label splashscreen:
     scene black
     pause(0.5)
