@@ -1,4 +1,4 @@
-# Вас приветствует команда Dark_Throne <img src="https://github.com/v3xlrm1nOwo1/v3xlrm1nOwo1/assets/87325345/bb453277-49dd-4ccf-88de-1e1958fcb38e" width="70px" height="70" />
+# Вас приветствует команда Dark_Throne <img src="https://media.tenor.com/dMwtTTN4XusAAAAj/yeah-cute.gif" width="100" height="100" />
 ```zsh
 > print("Hello my friend!")
 ```
