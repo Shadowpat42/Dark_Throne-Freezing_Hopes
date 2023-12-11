@@ -26,7 +26,7 @@
 2. [Ссылка на спрайты персонажей](https://drive.google.com/drive/folders/1STOjQX60TQzmAXhtWc8NiGy56ySnThVq?usp=sharing)
 
 **Артефакты геймдизайнера:**
-- [Ссылка на pdf](https://vk.com/doc622680558_667562732?hash=Hu91RtWdzkClDYp2SHY9dKyvvDQV52z9NFDjNZgQgys&dl=CJeYoaF0k2zdb7qnVCJ0yigNYfqjE9daK6Wb0qbOOss)
+- [Ссылка на pdf](https://vk.com/doc622680558_667707171?hash=fQMhhQLvwaH7GTeQQYuTSZeBTwvDTeKUsFoSaa6sk1z&dl=7kcokFetpJQbaHpQ1AFrIQN3cKswKtHDQXLdHZ0IHZP)
 
 ### Описание проекта:
 
