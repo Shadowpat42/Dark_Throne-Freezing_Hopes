@@ -1,8 +1,13 @@
-# Вас приветствует команда Dark_Throne <img src="https://github.com/v3xlrm1nOwo1/v3xlrm1nOwo1/assets/87325345/bb453277-49dd-4ccf-88de-1e1958fcb38e" width="70px" height="70" />
+# Вас приветствует команда Dark_Throne <img src="https://media.tenor.com/dMwtTTN4XusAAAAj/yeah-cute.gif" width="100" height="100" />
 ```zsh
 > print("Hello my friend!")
 ```
 ## Новела: *Замерзающие надежды*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Погрузитесь+в+уникальный+мир!;Исследуйте+тайны+новеллы!;Взлетайте+вместе+с+героями!"">
+</p>
+
+
 ### Состав команды:
 
 | Участник                          | Роль                  | 
@@ -21,7 +26,7 @@
 2. [Ссылка на спрайты персонажей](https://drive.google.com/drive/folders/1STOjQX60TQzmAXhtWc8NiGy56ySnThVq?usp=sharing)
 
 **Артефакты геймдизайнера:**
-- [Ссылка на pdf](https://vk.com/doc622680558_667562732?hash=Hu91RtWdzkClDYp2SHY9dKyvvDQV52z9NFDjNZgQgys&dl=CJeYoaF0k2zdb7qnVCJ0yigNYfqjE9daK6Wb0qbOOss)
+- [Ссылка на pdf](https://vk.com/doc622680558_667707171?hash=fQMhhQLvwaH7GTeQQYuTSZeBTwvDTeKUsFoSaa6sk1z&dl=7kcokFetpJQbaHpQ1AFrIQN3cKswKtHDQXLdHZ0IHZP)
 
 ### Описание проекта:
 
