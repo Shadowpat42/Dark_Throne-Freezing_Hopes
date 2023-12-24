@@ -6,6 +6,7 @@ define e = Character("Егор", color="1B9753")
 define i = Character("Ирина", color="8378C8")
 define a = Character("Александра Владимировна", color="ff0000")
 define d = Character("Даша")
+define k = Character("Катя")
 
 # Backgrounds:
 
@@ -15,6 +16,7 @@ image room_in_night = "bg/room_in_night.jpg"
 image kitchen = "bg/kitchen.jpg"
 image kitchen_dark = "bg/kitchen_dark.jpg"
 image food = "bg/food.jpg"
+image food_2 = "bg/food_2.jpg"
 image koridor = "bg/korifor.jpg"
 image koridor_dark = "bg/koridor_dark.jpg"
 image cake = "bg/cake.jpg"
@@ -55,9 +57,15 @@ image kassa = "bg/kassa.jpg"
 image ShopStreet = "bg/ShopStreet.jpg"
 image road2 = "bg/road2.jpg"
 
+# Фоны для учительской
+image office = "bg/office.jpg"
+image teacher_in_office = "bg/teacher_in_office.jpg"
+image  directions = "bg/directions.png"
+
 # Фоны эпизодов:
 image episode_1 = "bg/episode_1.jpg"
 image episode_2 = "bg/episode_2.jpg"
+image episode_3 = "bg/episode_3.jpg"
 image episode_end = "bg/episode_end.jpg"
 
 # Questions:
@@ -67,6 +75,7 @@ image question_2 = "bg/question_2.jpg"
 image question_3 = "bg/question_3.jpg"
 image question_4 = "bg/question_4.jpg"
 image question_5 = "bg/question_5.jpg"
+image question_6 = "bg/question_6.jpg"
 
 # intro
 image black = "intro/black.png"
@@ -103,6 +112,15 @@ image friend_blush = "characters/person_2/friend_blush.png"
 
 # Спрайты главного героя:
 image egor = "characters/main_hero/egor.png"
+
+# Спрайты матери главного героя
+image mother = "characters/mother/mother.png"
+
+# Спрайты учителя
+image teacher = "characters/teacher/teacher.png"
+image teacher_smile = "characters/teacher/teacher_smile.png"
+image teacher_smile_2 = "characters/teacher/teacher_smile_2.png"
+image teacher_surprised = "characters/teacher/teacher_surprised.png"
 
 # Заставка перед входом
 label splashscreen:
