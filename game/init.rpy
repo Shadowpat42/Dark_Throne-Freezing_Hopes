@@ -21,11 +21,17 @@ image koridor = "bg/korifor.jpg"
 image koridor_dark = "bg/koridor_dark.jpg"
 image cake = "bg/cake.jpg"
 image piece_of_cake = "bg/piece_of_cake.jpg"
+image podezd = "bg/podezd.jpg"
+image open_door = "bg/open_door.jpg"
+image computer_1 = "bg/compute.jpg"
+image computer_2 = "bg/computer_2.jpg"
+image computer_3 = "bg/computer_3.jpg"
 
 # Фоны с улицей возле дома:
 image street = "bg/street.jpg"
 image streetDog = "bg/street_with_dog.jpg"
 image fall_dog = "bg/fall_dog.jpg"
+image home_evening = "bg/home_evening.jpg"
 
 # Фон телефона со временем
 image phone = "bg/phone.jpg"
@@ -37,6 +43,7 @@ image road_to_school = "bg/road_to_school.jpg"
 image vorota = "bg/vorota.jpg"
 image dvor = "bg/school_dvor.jpg"
 image classroom = "bg/classroom.jpg"
+image door = "bg/door.jpg"
 
 # Фоны дома Ирины
 image house = "bg/house.jpg"
@@ -56,11 +63,14 @@ image shoping_3 = "bg/shoping_3.jpg"
 image kassa = "bg/kassa.jpg"
 image ShopStreet = "bg/ShopStreet.jpg"
 image road2 = "bg/road2.jpg"
+image shop = "bg/shop.jpg"
+image falling = "bg/falling.jpg"
 
 # Фоны для учительской
 image office = "bg/office.jpg"
 image teacher_in_office = "bg/teacher_in_office.jpg"
-image  directions = "bg/directions.png"
+image directions = "bg/directions.png"
+image door_teacher = "bg/teacher_door.jpg"
 
 # Фоны эпизодов:
 image episode_1 = "bg/episode_1.jpg"
@@ -109,6 +119,9 @@ image person_1 = "characters/person_1/pers_1.png"
 image friend_default = "characters/person_2/friend.png"
 image friend_smile = "characters/person_2/friend_smile.png"
 image friend_blush = "characters/person_2/friend_blush.png"
+
+# Спрайты Екатерины:
+image ekaterina = "characters/Ekaterina/original.png"
 
 # Спрайты главного героя:
 image egor = "characters/main_hero/egor.png"
