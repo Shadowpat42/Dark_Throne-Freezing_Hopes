@@ -3,10 +3,10 @@ define config.end_splash_transition = Dissolve(1.0)
 # Определение персонажей игры.
 define m = Character("Мама", color="313447")
 define e = Character("Егор", color="1B9753")
-define i = Character("Ирина", color="8378C8")
+define i = Character("Ирина", color="C13712")
 define a = Character("Александра Владимировна", color="ff0000")
-define d = Character("Даша")
-define k = Character("Катя")
+define d = Character("Даша", color="0A45FF")
+define k = Character("Катя", color="0AFFA6")
 
 # Backgrounds:
 
@@ -56,12 +56,22 @@ image street_with_tree = "bg/street_with_tree.jpg"
 image road_to_school = "bg/road_to_school.jpg"
 image vorota = "bg/vorota.jpg"
 image dvor = "bg/school_dvor.jpg"
+image dvor_2 = "bg/dvor_2.jpg"
 image classroom = "bg/classroom.jpg"
 image door = "bg/door.jpg"
 image canteen = "bg/canteen.jpg"
 image food_4 = "bg/food_4.jpg"
 image table_1 = "bg/table_1.jpg"
 image table_2 = "bg/table_2.jpg"
+image ege_aud = "bg/ege_aud.jpg"
+
+# EGE
+image ege_1 = "bg/ege_1.jpg"
+image ege_2 = "bg/ege_2.jpg"
+image ege_3 = "bg/ege_3.jpg"
+image ege_4 = "bg/ege_4.jpg"
+image ege_5 = "bg/ege_5.jpg"
+
 
 # Фоны дома Ирины
 image house = "bg/house.jpg"
