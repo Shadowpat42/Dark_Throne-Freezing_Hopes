@@ -10,6 +10,17 @@ define k = Character("Катя")
 
 # Backgrounds:
 
+# Фоны ПК:
+image computer_0 = "bg/computer_0.jpg"
+image computer_1 = "bg/compute.jpg"
+image computer_2 = "bg/computer_2.jpg"
+image computer_3 = "bg/computer_3.jpg"
+image computer_4 = "bg/computer_4.jpg"
+image computer_5 = "bg/computer_5.jpg"
+image computer_6 = "bg/computer_6.jpg"
+
+
+
 # Фоны дома ГГ:
 image room_in_day = "bg/room_in_day.jpg"
 image room_in_night = "bg/room_in_night.jpg"
@@ -17,15 +28,18 @@ image kitchen = "bg/kitchen.jpg"
 image kitchen_dark = "bg/kitchen_dark.jpg"
 image food = "bg/food.jpg"
 image food_2 = "bg/food_2.jpg"
+image food_3 = "bg/food_3.jpg"
 image koridor = "bg/korifor.jpg"
 image koridor_dark = "bg/koridor_dark.jpg"
 image cake = "bg/cake.jpg"
 image piece_of_cake = "bg/piece_of_cake.jpg"
 image podezd = "bg/podezd.jpg"
 image open_door = "bg/open_door.jpg"
-image computer_1 = "bg/compute.jpg"
-image computer_2 = "bg/computer_2.jpg"
-image computer_3 = "bg/computer_3.jpg"
+
+
+# Фоны обучения ГГ:
+image studying_1 = "bg/studying_1.jpg"
+image studying_2 = "bg/studying_2.jpg"
 
 # Фоны с улицей возле дома:
 image street = "bg/street.jpg"
@@ -44,6 +58,10 @@ image vorota = "bg/vorota.jpg"
 image dvor = "bg/school_dvor.jpg"
 image classroom = "bg/classroom.jpg"
 image door = "bg/door.jpg"
+image canteen = "bg/canteen.jpg"
+image food_4 = "bg/food_4.jpg"
+image table_1 = "bg/table_1.jpg"
+image table_2 = "bg/table_2.jpg"
 
 # Фоны дома Ирины
 image house = "bg/house.jpg"
@@ -55,6 +73,9 @@ image kitchen_Irina_2 = "bg/kitchen_Irina_2.jpg"
 image kitchen_Irina_3 = "bg/kitchen_Irina_3.jpg"
 image kitchen_Irina_4 = "bg/kitchen_Irina_4.jpg"
 
+# Фоны дома Даши
+image prohojaya_2 = "bg/prohojaya_2.jpg"
+image dasha_room = "bg/dasha_room.jpg"
 
 # Фоны магазина (наружние и внутренние)
 image shoping_1 = "bg/shoping_1.jpg"
@@ -76,7 +97,9 @@ image door_teacher = "bg/teacher_door.jpg"
 image episode_1 = "bg/episode_1.jpg"
 image episode_2 = "bg/episode_2.jpg"
 image episode_3 = "bg/episode_3.jpg"
+image episode_4 = "bg/episode_4.jpg"
 image episode_end = "bg/episode_end.jpg"
+
 
 # Questions:
 image questions = "bg/questions.jpg"
@@ -134,6 +157,7 @@ image teacher = "characters/teacher/teacher.png"
 image teacher_smile = "characters/teacher/teacher_smile.png"
 image teacher_smile_2 = "characters/teacher/teacher_smile_2.png"
 image teacher_surprised = "characters/teacher/teacher_surprised.png"
+image teacher_angry = "characters/teacher/teacher_angry.png"
 
 # Заставка перед входом
 label splashscreen:
