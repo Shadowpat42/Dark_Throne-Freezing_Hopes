@@ -22,11 +22,14 @@
 - [Ссылка на доску](https://ru.yougile.com/team/ab59a3e0b59c/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0-%D0%A3%D1%80%D0%A4%D0%A3#VIZ-23)
 
 **Артефакты дизайнера:**
-1. [Ссылка на фоны](https://drive.google.com/drive/folders/1CtRA-vmvC_26S_ftxAHtiLVUEMek6ZKB?usp=sharing)
-2. [Ссылка на спрайты персонажей](https://drive.google.com/drive/folders/1STOjQX60TQzmAXhtWc8NiGy56ySnThVq?usp=sharing)
+- [Ссылка на фигму](https://www.figma.com/file/1SFjki0tLfKafusiINZ5y4/Untitled?type=design&node-id=0%3A1&mode=design&t=HKAG2CcZzjGNHGyK-1)
+
 
 **Артефакты геймдизайнера:**
-- [Ссылка на pdf](https://vk.com/doc622680558_667707171?hash=fQMhhQLvwaH7GTeQQYuTSZeBTwvDTeKUsFoSaa6sk1z&dl=7kcokFetpJQbaHpQ1AFrIQN3cKswKtHDQXLdHZ0IHZP)
+- [Ссылка на pdf](https://vk.com/doc307718923_669198606?hash=BipnrsSEBAK9am4Hvw80vN6u1TdYv6iZmKuoNkp2QeD&dl=JWr6n1QNPgHkZ6SEGQYXgH0XWrCC7triFkrdJjvDCJL)
+
+**Артефакты аналитика:**
+- [Ссылка на docx](https://docs.google.com/document/d/1Hj8nzhgeaBm3QSfGXsjb4-jZ7Qa7ZD0opFNIGOUd-0A/edit)
 
 ### Описание проекта:
 
